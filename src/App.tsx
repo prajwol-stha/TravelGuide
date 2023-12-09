@@ -3,6 +3,7 @@ import React, { useEffect } from 'react'
 import SplashScreen from 'react-native-splash-screen'
 import ElevatedCards from '../components/ElevatedCards';
 
+
 const App = () => {
 
   useEffect(()=>{
@@ -21,4 +22,3 @@ const App = () => {
 export default App
 
 const styles = StyleSheet.create({})
-
